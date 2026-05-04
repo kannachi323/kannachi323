@@ -1,6 +1,8 @@
 <div align="center">
 
-## what i’m building
+hi, i’m matthew. i build systems.
+
+## builds
 <table>
   <tr>
     <td><b>project</b></td>
