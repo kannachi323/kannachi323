@@ -2,26 +2,6 @@
 
 hi, i’m matthew. i build systems.
 
-## projects
-<table>
-  <tr>
-    <td><a href="https://mistysys.com">misty</a></td>
-    <td>multi cloud file manager</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/kannachi323/misty-sdk">misty-sdk</a></td>
-    <td>plugins engine for misty</td>
-  </tr>
-  <tr>
-    <td><a href="https://boredgamz.com">boredgamz</a></td>
-    <td>live puzzle game platform</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/kannachi323/chess-cli">chess-cli</a></td>
-    <td>play chess in your terminal</td>
-  </tr>
-</table>
-
 ## stack
 <table>
   <tr>
